@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Madhuri  
+# 👋 Hi, I'm Madhuri Bathula
 ### Web3 Builder | Blockchain Strategist | Founder of SSTAR  
 *(GitHub: Maddy-Bathula)*
 
 Welcome to my GitHub!  
-I’m an International Business graduate passionate about the future of **Web3, blockchain ecosystems, NFTs, and decentralised communities**.  
+I’m a Web3 Ecosystem builder passionate about the future of **Web3, blockchain ecosystems, NFTs, and decentralised communities**.  
 
-Although I don’t come from a traditional coding background, I actively **build real blockchain projects** to deepen my understanding of token creation, NFT standards, and the business models behind decentralised products.
+I actively **build real blockchain projects** to deepen my understanding of token creation, NFT standards, and the business models behind decentralised products.
 
 My goal is to work in **Web3 strategy, product, operations, partnerships, and ecosystem growth**, combining my business experience with hands-on blockchain experimentation.
 
@@ -33,8 +33,8 @@ An ERC-20 token deployed on Ethereum testnet.
 
 ---
 
-## 🎯 What I Focus On (Non-Technical Web3 Skills)
-Even without a developer background, I specialise in:
+## 🎯 What I Focus On 
+I specialise in:
 
 - **Token ecosystems & business models**  
 - **Web3 product strategy & growth**  
