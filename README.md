@@ -21,7 +21,7 @@ A Solana-based token created as part of my journey to understand tokenomics, blo
 - Built using **Solana Program Library**  
 - Designed for future utilities within the **SSTAR ecosystem**  
 - Exploration into **DeFi models & community-driven economies**  
-- 🔗 **Repo:** [SSTAR-Solana](https://github.com/Maddy-Bathula/SSTAR-Solana)  
+- 🔗 **Repo:** [SSTAR-Solana](https://github.com/Maddy-Bathula/SSTAR-Token-Solana)  
 
 ---
 
@@ -73,7 +73,7 @@ Hands-on projects reflecting my learning journey:
 
 | Project | Type | Highlights | Repo |
 |---------|------|-----------|------|
-| **SSTAR Token** | Solana SPL | DeFi exploration, NFT integration | [Repo](https://github.com/Maddy-Bathula/SSTAR-Solana) |
+| **SSTAR Token** | Solana SPL | DeFi exploration, NFT integration | [Repo](https://github.com/Maddy-Bathula/SSTAR-Token-Solana) |
 | **SOLARA NFT Collection** | Solana NFT | Creative digital art, community building | [Repo](https://github.com/Maddy-Bathula/SOLARA-NFT-Solana) |
 | **MBAT Token** | Ethereum ERC-20 | Staking, testnet deployment, learning | [Repo](https://github.com/Maddy-Bathula/MBAT-ERC20-Sepolia) |
 
