@@ -2,7 +2,7 @@
 
 ![Web3 Badge](https://img.shields.io/badge/Web3-Ecosystem-blue) ![Blockchain Badge](https://img.shields.io/badge/Blockchain-Strategy-green) ![NFT Badge](https://img.shields.io/badge/NFT-Collector-orange)
 
-**Web3 Ecosystem Builder | Blockchain Strategist | Founder of SSTAR**  
+**Web3 Ecosystem Builder | Product Manager | Blockchain Strategist | Founder of SSTAR**  
 GitHub: [Maddy-Bathula](https://github.com/Maddy-Bathula)  
 
 Welcome to my GitHub!  
@@ -91,8 +91,8 @@ Hands-on projects reflecting my learning journey:
 ## 🌱 My Goal
 To combine my **business background** with **hands-on Web3 experience** to contribute in roles such as:  
 
-- **Web3 Strategy**  
 - **Product Management**  
+- **Web3 Strategy**  
 - **Partnerships & Ecosystem Growth**  
 - **Blockchain Innovation**  
 - **Community & Project Operations**  
